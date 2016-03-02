@@ -1,0 +1,4 @@
+Charles Ciezki
+2-29-16
+Today was my first day in the new DevCode Camp class. I'm very excited to start again.
+Today I accomplished learning about how to better use google, I learned all about the make up of a computer and better about how it works. I even got to build a gaming computer online! I also learned about binary code and how to convert it to hex and decimal, during the day I learned how to convert back and forth. Then it was time for lunch, after lunch we learned all about Git and ho wto properly use Git, we also learned how to NOT use git, as making copies over other peoples' copies, due to the fact that that will throw an error. We also lerned about pushing and pulling from Git.
