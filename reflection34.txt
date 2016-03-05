@@ -1,0 +1,1 @@
+Today I commpleted my choose your own adventure game and although it's not too fun as of this moment, I really feel like I learned a lot in the process. I feel really confident about my first week back at Devcode camp. I specifically learned today about classes, functions and methods, how to use them and when to use them.
