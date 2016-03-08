@@ -1,0 +1,1 @@
+Today we really dove into Java, we talked about inharientce, and overriding methods. We were tasked with making "FizzBuzz", and also making a robot that moves and has a power level. So far in making the robot it's been very tough, but I'm getting through it!
