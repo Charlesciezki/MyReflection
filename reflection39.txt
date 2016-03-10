@@ -1,0 +1,1 @@
+Today 3-9-16 we worked on our dice game and got very close to getting finished with it we implamented arrays functions and methods. I'm sorry this isn't long because I didn't do too much today becides work on the game.
