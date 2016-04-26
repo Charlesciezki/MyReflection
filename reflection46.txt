@@ -1,0 +1,1 @@
+Today 4-6-16 I finished up my animal shelter project and it went really well, I actually learned a lot this week, like about getters and setters, I also learned about null values and generic lists. I used a 2-d list in my project and I feel really good about it because I encountered minor problems with it!
